@@ -3,4 +3,5 @@ Database Systems class at UNCC
 
 Authors:
  Rajah Chacko rajah AT alumni.duke.edu or rchacko1@uncc.edu
+ Kranthi K Chinnakotla @ kchinnak@uncc.edu
  
